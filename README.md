@@ -1,2 +1,1 @@
-# ram8k
-8KB expansion ram board for PC-8001
+# PC-8001用 8KB拡張RAMボード
